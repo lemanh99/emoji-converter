@@ -1,0 +1,1 @@
+emoji==2.5.1; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.4.0")
