@@ -6,7 +6,7 @@ authors = ["Le Xuan Manh <lexuanmanh101199@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-emoji = "^2.5.1"
+emoji = "^2.7.0"
 
 [tool.poetry.dev-dependencies]
 
