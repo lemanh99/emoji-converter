@@ -5,6 +5,14 @@ Emoji converter
 
 A Python package for converting emojis to text and text to emojis.
 
+------------
+
+You can install the "emoji-converter" package using pip:
+
+.. code-block:: bash
+
+    pip install emoji-converter
+
 ======================================================
 
 ## Example
